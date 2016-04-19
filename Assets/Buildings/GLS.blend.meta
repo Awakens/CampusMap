@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 707e430dc50f59347a3cc331e203b029
+timeCreated: 1460497124
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Sign
+    100002: Building
+    100004: Door_Back
+    100006: Door_Front_1
+    100008: Door_Front_2
+    100010: Door_Front_3
+    100012: Front_Sign
+    100014: //RootNode
+    100016: Pole_1
+    100018: Pole_2
+    100020: Pole_3
+    100022: Pole_4
+    100024: Pole_5
+    100026: Pole_6
+    100028: Pole_7
+    100030: Pole_Base_1
+    100032: Pole_Base_2
+    100034: Pole_Base_3
+    100036: Pole_Base_4
+    100038: Pole_Base_5
+    100040: Pole_Base_6
+    100042: Pole_Base_7
+    100044: Text
+    100046: Window_Back
+    100048: Window_Front
+    100050: Window_Left
+    100052: Window_Right
+    400000: Back_Sign
+    400002: Building
+    400004: Door_Back
+    400006: Door_Front_1
+    400008: Door_Front_2
+    400010: Door_Front_3
+    400012: Front_Sign
+    400014: //RootNode
+    400016: Pole_1
+    400018: Pole_2
+    400020: Pole_3
+    400022: Pole_4
+    400024: Pole_5
+    400026: Pole_6
+    400028: Pole_7
+    400030: Pole_Base_1
+    400032: Pole_Base_2
+    400034: Pole_Base_3
+    400036: Pole_Base_4
+    400038: Pole_Base_5
+    400040: Pole_Base_6
+    400042: Pole_Base_7
+    400044: Text
+    400046: Window_Back
+    400048: Window_Front
+    400050: Window_Left
+    400052: Window_Right
+    2300000: Back_Sign
+    2300002: Building
+    2300004: Door_Back
+    2300006: Door_Front_1
+    2300008: Door_Front_2
+    2300010: Door_Front_3
+    2300012: Front_Sign
+    2300014: Pole_1
+    2300016: Pole_2
+    2300018: Pole_3
+    2300020: Pole_4
+    2300022: Pole_5
+    2300024: Pole_6
+    2300026: Pole_7
+    2300028: Pole_Base_1
+    2300030: Pole_Base_2
+    2300032: Pole_Base_3
+    2300034: Pole_Base_4
+    2300036: Pole_Base_5
+    2300038: Pole_Base_6
+    2300040: Pole_Base_7
+    2300042: Text
+    2300044: Window_Back
+    2300046: Window_Front
+    2300048: Window_Left
+    2300050: Window_Right
+    3300000: Back_Sign
+    3300002: Building
+    3300004: Door_Back
+    3300006: Door_Front_1
+    3300008: Door_Front_2
+    3300010: Door_Front_3
+    3300012: Front_Sign
+    3300014: Pole_1
+    3300016: Pole_2
+    3300018: Pole_3
+    3300020: Pole_4
+    3300022: Pole_5
+    3300024: Pole_6
+    3300026: Pole_7
+    3300028: Pole_Base_1
+    3300030: Pole_Base_2
+    3300032: Pole_Base_3
+    3300034: Pole_Base_4
+    3300036: Pole_Base_5
+    3300038: Pole_Base_6
+    3300040: Pole_Base_7
+    3300042: Text
+    3300044: Window_Back
+    3300046: Window_Front
+    3300048: Window_Left
+    3300050: Window_Right
+    4300000: Door_Back
+    4300002: Door_Front_3
+    4300004: Door_Front_2
+    4300006: Door_Front_1
+    4300008: Window_Left
+    4300010: Back_Sign
+    4300012: Window_Front
+    4300014: Window_Back
+    4300016: Window_Right
+    4300018: Pole_7
+    4300020: Pole_Base_7
+    4300022: Front_Sign
+    4300024: Text
+    4300026: Pole_6
+    4300028: Pole_Base_6
+    4300030: Pole_Base_5
+    4300032: Pole_5
+    4300034: Pole_4
+    4300036: Pole_Base_4
+    4300038: Pole_Base_3
+    4300040: Pole_3
+    4300042: Pole_2
+    4300044: Pole_Base_2
+    4300046: Pole_Base_1
+    4300048: Pole_1
+    4300050: Building
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
